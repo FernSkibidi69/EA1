@@ -1,0 +1,20 @@
+{
+  "option": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "showroom": "Sala de exposicion",
+    "vehicle": "Seccion de Vehiculos"
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "content": "Astara Retail Peru es uno de los grupos distribuidores de vehiculos"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Bienvenido a Astara Retail Peru."
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content": "La ruta {unavailable-route} no está disponible.",
+    "go-home": "Ir al Inicio"
+  },

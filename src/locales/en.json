@@ -1,0 +1,21 @@
+{
+  "option": {
+    "home": "Home",
+    "about": "New Vehicle Inventory Item",
+    "showroom": "Show Room",
+    "vehicle": "Vehicles Inventory"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "Astara Retail Peru is a group dealer ."
+  },
+  "home": {
+    "title": "Welcome",
+    "content": "Welcome to Astara Retail Peru."
+  },
+"page-not-found": {
+"title": "Page Not Found",
+"content": "The path {unavailable-route} is not available.",
+"go-home": "Go Home"
+}
+}
